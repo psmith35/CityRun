@@ -4,7 +4,7 @@ City Run is a fun endless runner video game that requires players to earn points
 
 ## Features
 
-- Moving the Character, Background, and Obstacles.
+- Moving the Character, Background, and Obstacles
 - Jumping and Double-Jumping
 - Increasing Score
 - Making the Game Move and the Score Increase Twice as Fast
