@@ -22,6 +22,10 @@ City Run is a fun endless runner video game that requires players to earn points
 - Hold the Enter key to speed up the game and score multiplier.
 - Press Enter to restart the game when the current game ends.
 
+##Rules
+
+- The game ends when a player collides with an obstacle.
+
 ## Demo
 
 https://play.unity.com/mg/other/builds-j4-9
