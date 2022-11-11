@@ -14,7 +14,7 @@ City Run is a fun endless runner video game that requires players to earn points
 
 **Languages:** C#
 
-**Software:** Unity, Git
+**Software:** Unity (2019.4.11+), Git
 
 ## Controls
 
